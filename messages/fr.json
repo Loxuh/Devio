@@ -1,0 +1,100 @@
+{
+  "Home": {
+    "title": "Bienvenue chez Devio",
+    "description": "Là où vos idées prennent vie, bloc par bloc.",
+    "cta": "Demander un devis"
+  },
+  "Projects": {
+    "title": "Dernières réalisations",
+    "viewAll": "Voir tous les projets",
+    "viewProject": "Voir le projet",
+    "description": "Nos projets reflètent notre savoir-faire et notre engagement envers l’excellence. Chacune de nos réalisations est pensée pour offrir une expérience Minecraft unique, stable et immersive."
+  },
+  "CTA": {
+    "title": "Intéressé ?",
+    "description": "Discutons ensemble de votre projet ! Notre équipe vous accompagne pas à pas, du concept à la mise en ligne. Rejoignez-nous sur Discord pour recevoir un devis gratuit adapté à vos besoins.",
+    "button": "Rejoindre Discord"
+  },
+  "FAQ": {
+    "title": "Questions fréquentes",
+    "description": "Retrouvez ici les réponses aux interrogations les plus courantes concernant nos services.",
+    "items": {
+      "project": {
+        "question": "Comment fonctionne un projet ?",
+        "answer": "Tout commence par une discussion approfondie sur Discord afin de cerner vos besoins. Ensuite, nous vous proposons un devis gratuit avant de débuter le développement."
+      },
+      "delivery": {
+        "question": "Quels sont vos délais de livraison ?",
+        "answer": "Les délais varient selon la complexité du projet et notre planning. Contactez-nous sur Discord pour obtenir une estimation personnalisée."
+      },
+      "tech": {
+        "question": "Quelles technologies utilisez-vous ?",
+        "answer": "Nous utilisons principalement Java, Kotlin, Forge, Fabric, Spigot, Paper, Purpur, MCP et d'autres outils liés à l’écosystème Minecraft pour vous garantir des solutions robustes et sur mesure."
+      }
+    }
+  },
+  "Footer": {
+    "rights": "Tous droits réservés.",
+    "discord": "Discord",
+    "legal": "Mentions légales"
+  },
+  "Banner": {
+    "text": "Vous avez besoin d’un plugin ou d’un mod Minecraft ? Rejoignez-nous sur Discord pour un devis personnalisé, une réponse rapide et des tarifs compétitifs."
+  },
+  "Nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "pricing": "Tarifs",
+    "cta": "Demander un devis"
+  },
+  "NotFound": {
+    "title": "404",
+    "description": "Oups ! Cette page est introuvable.",
+    "action": "Retour à l’accueil"
+  },
+  "Pricing": {
+    "title": "Nos services",
+    "subtitle": "Développement de plugins, mods et systèmes sur mesure pour Minecraft",
+    "startingAt": "À partir de",
+    "currency": "EUR",
+    "getStarted": "Commencer",
+    "startDiscussion": "Démarrer la discussion",
+    "customDesign": "Développement Minecraft personnalisé",
+    "plans": {
+      "plugin": {
+        "name": "Plugin Minecraft sur mesure",
+        "description": "Développement de plugins personnalisés pour Spigot, Paper, Purpur et autres forks",
+        "features": {
+          "performance": "Code optimisé et léger",
+          "compatibility": "Compatible avec les dernières versions de Minecraft",
+          "maintenance": "Mises à jour et évolutivité prévues",
+          "support": "Support dédié pendant 4 mois",
+          "documentation": "Documentation claire et complète"
+        }
+      },
+      "mod": {
+        "name": "Développement de mod Minecraft",
+        "description": "Création de mods personnalisés via Forge, Fabric ou MCP pour enrichir l’expérience de jeu",
+        "included": {
+          "title": "Ce qui est inclus :",
+          "subtitle": "Un accompagnement complet et technique pour chaque mod développé :",
+          "items": [
+            "Analyse de vos besoins",
+            "Architecture du mod adaptée à vos mécaniques",
+            "Développement en environnement MCP, Forge ou Fabric",
+            "Documentation et tutoriels d’installation",
+            "Support technique dédié"
+          ]
+        },
+        "process": {
+          "title": "Comment ça fonctionne :",
+          "steps": [
+            "Échange initial pour comprendre votre projet",
+            "Proposition technique et devis personnalisé",
+            "Développement, tests et suivi régulier jusqu’à livraison"
+          ]
+        }
+      }
+    }
+  }
+}

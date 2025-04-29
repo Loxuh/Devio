@@ -1,0 +1,100 @@
+{
+  "Home": {
+    "title": "Welcome to Devio",
+    "description": "Where your ideas come to life, block by block.",
+    "cta": "Request a quote"
+  },
+  "Projects": {
+    "title": "Latest Projects",
+    "viewAll": "View all projects",
+    "viewProject": "View project",
+    "description": "Our projects reflect our expertise and commitment to excellence. Each creation is designed to deliver a unique, stable, and immersive Minecraft experience."
+  },
+  "CTA": {
+    "title": "Interested?",
+    "description": "Let's talk about your project! Our team will guide you step by step, from concept to launch. Join us on Discord to receive a free quote tailored to your needs.",
+    "button": "Join Discord"
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to the most common questions about our services.",
+    "items": {
+      "project": {
+        "question": "How does a project work?",
+        "answer": "It all starts with a thorough discussion on Discord to understand your needs. Then, we provide a free quote before starting development."
+      },
+      "delivery": {
+        "question": "What are your delivery times?",
+        "answer": "Delivery times vary depending on the complexity of the project and our current schedule. Contact us on Discord for a personalized estimate."
+      },
+      "tech": {
+        "question": "What technologies do you use?",
+        "answer": "We mainly use Java, Kotlin, Forge, Fabric, Spigot, Paper, Purpur, MCP, and other tools from the Minecraft ecosystem to deliver robust and custom solutions."
+      }
+    }
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "discord": "Discord",
+    "legal": "Legal Notice"
+  },
+  "Banner": {
+    "text": "Need a Minecraft plugin or mod? Join us on Discord for a personalized quote, fast response, and competitive pricing."
+  },
+  "Nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "pricing": "Pricing",
+    "cta": "Request a quote"
+  },
+  "NotFound": {
+    "title": "404",
+    "description": "Oops! This page could not be found.",
+    "action": "Return to homepage"
+  },
+  "Pricing": {
+    "title": "Our Services",
+    "subtitle": "Custom development for plugins, mods, and systems for Minecraft",
+    "startingAt": "Starting at",
+    "currency": "EUR",
+    "getStarted": "Get Started",
+    "startDiscussion": "Start Discussion",
+    "customDesign": "Custom Minecraft development",
+    "plans": {
+      "plugin": {
+        "name": "Custom Minecraft Plugin",
+        "description": "Development of custom plugins for Spigot, Paper, Purpur, and other forks",
+        "features": {
+          "performance": "Optimized and lightweight code",
+          "compatibility": "Compatible with the latest Minecraft versions",
+          "maintenance": "Includes updates and scalability",
+          "support": "Dedicated support for 4 months",
+          "documentation": "Clear and complete documentation"
+        }
+      },
+      "mod": {
+        "name": "Minecraft Mod Development",
+        "description": "Creation of custom mods using Forge, Fabric, or MCP to enhance gameplay experience",
+        "included": {
+          "title": "What's included:",
+          "subtitle": "Full technical support for each mod developed:",
+          "items": [
+            "Needs analysis",
+            "Mod architecture tailored to your mechanics",
+            "Development using MCP, Forge, or Fabric",
+            "Installation guides and documentation",
+            "Dedicated technical support"
+          ]
+        },
+        "process": {
+          "title": "How it works:",
+          "steps": [
+            "Initial discussion to understand your project",
+            "Technical proposal and personalized quote",
+            "Development, testing, and regular updates until delivery"
+          ]
+        }
+      }
+    }
+  }
+}
